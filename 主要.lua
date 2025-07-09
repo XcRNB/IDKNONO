@@ -1,9 +1,3 @@
---[[
-	Credits:
-	Inf Yield (a.k.a. Infinite Yield)
-    mspaint v2 - code organisation
-	Please notify me if you need credits
-]]
 
 if not getgenv().shared then
     getgenv().shared = {}
